@@ -4,4 +4,4 @@
 > 모든 코드의 출처는 [권철민 교수님의 github](https://github.com/chulminkw/DLCV_New) 임을 밝힙니다.
 
 - [6] [Selective Search 실습 및 시각화](https://github.com/junghyun21/DLCV/blob/main/section-1/1-6%20Selective%20Search.ipynb)
-- [7] [IOU(Intersection over Union)의 이해와 구현 실습](https://github.com/junghyun21/DLCV/blob/main/section-1/1-7%20IoU(Intersection%20over%20Union))
+- [7] [IOU(Intersection over Union)의 이해와 구현 실습](https://github.com/junghyun21/DLCV/blob/main/section-1/1-7%20IoU(Intersection%20over%20Union).ipynb)
