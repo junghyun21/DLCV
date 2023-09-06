@@ -10,3 +10,5 @@
 
 
 ### Section 2: Object Detection과 Segmentation을 위한 주요 데이터 세트 및 OpenCV 소개
+- 2-2 Pascal VOC 데이터 세트 탐색
+- 2-5,6 OpenCV를 활용한 이미치 및 영상 처리 실습
